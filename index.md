@@ -9,6 +9,7 @@ This site is used for linking resources to written articles or published tutoria
 * Further Reading
 
   * On Narrative Design
+    * [Canyons, Deltas and Plains - David Millard (2013)](http://www.davidmillard.org/2013/07/canyons-deltas-and-plains/)
     * [The Witcher 3: Crafting a compelling narrative in a believable open world - Miles Tost & Nikolas Kolm (2015)](https://www.youtube.com/watch?v=FcRC02jl8E8)
     * [Life, Love and Quest Design. Anatomy of Quests in The Witcher 3: Wild Hunt - Paweł Sasko (2017)](https://www.youtube.com/watch?v=g5TH9KakBDw )
     * [Lifesigns:Successful Storytelling in Open-World Games - Kyle Eric Perkins (2010)](https://etd.ohiolink.edu/!etd.send_file?accession=ouhonors1290205847&disposition=inline)
