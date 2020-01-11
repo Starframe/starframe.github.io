@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+#STARFRAME3D
 
-You can use the [editor on GitHub](https://github.com/Starframe/starframe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site is used for linking resources to written articles or published tutorials as well as providing downloads for code snippets and projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Articles
 
-### Markdown
+###Einfluss von Open Worlds auf Narrative Design - Wie Freiheit Grenzen schafft -
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Further Reading
+  * [The Witcher 3: Crafting a compelling narrative in a believable open world](https://www.youtube.com/watch?v=FcRC02jl8E8)
 
 ```markdown
 Syntax highlighted code block
