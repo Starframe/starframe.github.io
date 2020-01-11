@@ -10,7 +10,7 @@ This site is used for linking resources to written articles or published tutoria
 
   * On Narrative Design
     * [The Witcher 3: Crafting a compelling narrative in a believable open world - Miles Tost & Nikolas Kolm (2015)](https://www.youtube.com/watch?v=FcRC02jl8E8)
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/FcRC02jl8E8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/FcRC02jl8E8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     * [Life, Love and Quest Design. Anatomy of Quests in The Witcher 3: Wild Hunt - Paweł Sasko (2017)](https://www.youtube.com/watch?v=g5TH9KakBDw )
     * [Lifesigns:Successful Storytelling in Open-World Games - Kyle Eric Perkins (2010)](https://etd.ohiolink.edu/!etd.send_file?accession=ouhonors1290205847&disposition=inline)
     * [How blockbuster games are written - Alex Wiltshire (2018)](https://www.pcgamer.com/how-blockbuster-games-are-written/)
