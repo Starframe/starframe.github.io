@@ -1,10 +1,10 @@
-#STARFRAME3D
+# STARFRAME3D
 
 This site is used for linking resources to written articles or published tutorials as well as providing downloads for code snippets and projects.
 
-##Articles
+## Articles
 
-###Einfluss von Open Worlds auf Narrative Design - Wie Freiheit Grenzen schafft -
+### Einfluss von Open Worlds auf Narrative Design - Wie Freiheit Grenzen schafft -
 
 * Further Reading
   * [The Witcher 3: Crafting a compelling narrative in a believable open world](https://www.youtube.com/watch?v=FcRC02jl8E8)
