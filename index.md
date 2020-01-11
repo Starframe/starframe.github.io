@@ -25,8 +25,8 @@ This site is used for linking resources to written articles or published tutoria
   
   
   
-##Code Projects
+## Code Projects
 
-###Pure Evil - Personal Discord Bot
+### Pure Evil - Personal Discord Bot
 * [Download Link](https://github.com/Starframe/PureEvil/archive/master.zip)
 * [GitHub Page](https://github.com/Starframe/PureEvil)
