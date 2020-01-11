@@ -8,7 +8,15 @@ This site is used for linking resources to written articles or published tutoria
 
 * Further Reading
   * [The Witcher 3: Crafting a compelling narrative in a believable open world](https://www.youtube.com/watch?v=FcRC02jl8E8)
+  * [Paweł Sasko: Life, Love and Quest Design. Anatomy of Quests in The Witcher 3: Wild Hunt](https://www.youtube.com/watch?v=g5TH9KakBDw )
 
+  * On Level Design
+    * Ultimate Level Design - Alex Galuzin
+    * Create a Map in 11 Days - Alex Galuzin
+    * [A Beginner's Guide to Designing Video Game Levels - Mike Stout (2016)](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-designing-video-game-levels--cms-25662)
+  
+  
+  
 ```markdown
 Syntax highlighted code block
 
