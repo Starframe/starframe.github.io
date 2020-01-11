@@ -7,9 +7,16 @@ This site is used for linking resources to written articles or published tutoria
 ### Einfluss von Open Worlds auf Narrative Design - Wie Freiheit Grenzen schafft -
 
 * Further Reading
-  * [The Witcher 3: Crafting a compelling narrative in a believable open world](https://www.youtube.com/watch?v=FcRC02jl8E8)
-  * [Paweł Sasko: Life, Love and Quest Design. Anatomy of Quests in The Witcher 3: Wild Hunt](https://www.youtube.com/watch?v=g5TH9KakBDw )
 
+  * On Narrative Design
+    * [The Witcher 3: Crafting a compelling narrative in a believable open world](https://www.youtube.com/watch?v=FcRC02jl8E8)
+    * [Paweł Sasko: Life, Love and Quest Design. Anatomy of Quests in The Witcher 3: Wild Hunt](https://www.youtube.com/watch?v=g5TH9KakBDw )
+    * [Lifesigns:Successful Storytelling in Open-World Games - Kyle Eric Perkins (2010)](https://etd.ohiolink.edu/!etd.send_file?accession=ouhonors1290205847&disposition=inline)
+    
+  * On Open World Design
+    * [The Guide to Open World Environment Design - Noah Berry (2015)](https://80.lv/articles/skyrim-designer-on-building-virtual-worlds/)
+    * [Open World Design - School of Game Design](https://schoolofgamedesign.com/project/open-world-game/)
+        
   * On Level Design
     * Ultimate Level Design - Alex Galuzin
     * Create a Map in 11 Days - Alex Galuzin
