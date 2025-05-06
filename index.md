@@ -30,7 +30,7 @@ This site is used for linking resources to written articles or published tutoria
   
   
   
-## ARCHIVED
+## Archived
 
 ### Pure Evil - Personal Discord Bot
 * [Download Link](https://github.com/Starframe/PureEvil/archive/master.zip)
