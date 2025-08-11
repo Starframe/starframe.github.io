@@ -6,5 +6,5 @@ description: "This site is used for linking resources to written articles or pub
 permalink: /talks
 ---
 
-### StopKillingGames CCC-FFM
+# StopKillingGames CCC-FFM
 - Schritte zum Mitmachen - Step-by-Step-Guide (Stand August 2025)
