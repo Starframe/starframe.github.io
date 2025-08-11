@@ -79,7 +79,7 @@ Was wir aber alle ansprechen sollten:
 - Bitte den MEP, die Initiative zu unterstützen.
 <details>
   	<summary>Englisches, offizielles Template der Initiative:</summary>
-	
+	```
 	Subject: [Express how the support of the MEP is needed.]
 
 	Dear Honourable [Name of MEP],
@@ -105,6 +105,7 @@ Was wir aber alle ansprechen sollten:
 	Best regards,
 	[Your Full Name]
 	[Additional Information Optional]
+	```
  </details>
 
  [Gehe zum "Digital Fairness Act"](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_de){: .btn }
