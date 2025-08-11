@@ -124,8 +124,17 @@ Nehmt Kontakt zu zu Daniel Ondruska oder Accursed Farms (rosswscott@gmail.com) a
 
 ## Für Entwickler
 ### 1. Macht End-of-Life-Pläne für eure Spiele/Software
+Egal was für ein Spiel ihr entwickelt. Irgendwann patcht ihr es zum letzten Mal. Was passiert danach? Setzt euch zusammen und macht einen Plan für genau dieses Szenario. 
+
 ### 2. Minimiert Micro-Services oder 3rd Party Libraries/Software mit restriktiven Lizenzvereinbarungen
+Microservices machen die Entwicklung leichter, aber die Bereitstellung von Server-seitiger Software zu End-of-Life sehr viel schwieriger. Wählt daher Libraries und Services, die ihr auch an Endkunden weitergeben könnt.
+
 ### 3. Praktiziert transparente Kennzeichnung auf euren Produkten (freiwillige Kennzeichnung - bis offizieler Standard etabliert)
+Kennzeichner eure physischen Releases auf der Box an einer gut sichtbaren Stelle (Template TBA) als entweder permanente Lizenz oder als Service mit minimal Garantie für Serverlaufzeit ab Release.
+Dies generiert ein Bewusstsein bei Konsumenten und Präzedenz.
+
 ### 4. Schaut euch [das Best-Practises Video](https://www.youtube.com/watch?v=qXy9GlKgrlM) der Initiative an
+Viele Entwickler sind erst einmal überfordert mit den Forderungen der Bewegung. Zukünftige Titel so zu planen, dass sie diese erfüllen ist allerdings nicht so schwer wie es erscheinen mag, auch wenn sie klar als Online-Services zu definieren sind. In diesem Best-Practises Video findet ihr einiges an Rat hierzu.
+Ich werde mein bestes tun, Ressourcen hier immer wieder zu aktualisieren.
 
 
