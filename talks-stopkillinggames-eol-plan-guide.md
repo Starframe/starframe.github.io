@@ -229,3 +229,25 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 | System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
+| SAP / ERP Integration | publisher financials monitoring | TBA |
+| Salesforce / CRM Sync | whale management, VIPs, escalations | TBA |
+| Marketing Automation Hook-Ins | - | TBA |
+| E-Mail Campaigns / Player Win-Back Efforts | - | TBA |
+
+### Player Psychology & Retention Systems
+
+| System Type | Examples | EOL Solutions |
+|:-------------|:------------------|:------------------|
+| Frustration Detection | - | TBA |
+| Behaviour Monitoring | quitting afer loss streak, UI spam | TBA |
+| Retention Heat Systems | - | TBA |
+| Churn Management Systems | Real-Time Offer & Event Systems for churn rik spikes | TBA |
+| "Last Chance" Save Hooks | - | TBA |
+| Smart Triggers for Comeback Mechanics | Revive Tokens, Pity Timers | TBA |
+
+### E-Sports & Competitive Integrity
+
+| System Type | Examples | EOL Solutions |
+|:-------------|:------------------|:------------------|
+| Tournament Bracket Management Systems | - | TBA |
+| Match Verification / Result Arbitration Tools | - | TBA |
