@@ -26,7 +26,8 @@ Suche dir einen MEP aus der unten stehenden Liste aus, den du kontaktieren möch
 Nachdem die Petition auf EU-Level ihr Unterschriftenziel erreicht hat, ist es nun an der Zeit, Abgeordnete bzw. Parlamentsmitglieder direkt zu kontaktieren. 
 
 <details>
-	<summary>Liste der MEPs, die generell eher Pro-Verbraucherrecht stimmen (credit für die Liste: xe_x3)</summary>
+<summary>Liste der MEPs, die generell eher Pro-Verbraucherrecht stimmen (credit für die Liste: xe_x3)</summary>
+
 
 | Name | Partei | E-Mail |
 |:-------------|:------------------|:------|
