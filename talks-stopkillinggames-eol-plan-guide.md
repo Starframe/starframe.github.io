@@ -21,7 +21,7 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### Security & Integrity
 
-| System Type | Examples | Open Source Alternatives |
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
 | Anti-Cheat Systems | Easy Anti-Cheat, BattlEye | TBA |
 | DRM Validation Services | Denuvo, Proprietary Online Licencse Checks | TBA |
@@ -33,7 +33,7 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### Monetisation
 
-| System Type | Examples | Open Source Alternatives |
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
 | Payment Processing Gateways | Stripe, PayPal, In-game stores | TBA |
 | Ad Services / AdTech Integrations | - | TBA |
@@ -49,7 +49,7 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### Online Account Services
 
-| System Type | Examples | Open Source Alternatives |
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
 | Account Creation and Management | - | TBA |
 | Social Graph / Friend list Systems | - | TBA |
@@ -61,7 +61,7 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### Live Ops / Game Services
 
-| System Type | Examples | Open Source Alternatives |
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
 | Live Events Management | - | TBA |
 | Real-Time Matchmaking | - | TBA |
@@ -76,7 +76,7 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### Community & Social Features
 
-| System Type | Examples | Open Source Alternatives |
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
 | News / Live Feed Services | - | TBA |
 | Community Forums / Integration | - | TBA |
@@ -92,7 +92,7 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### Content Management
 
-| System Type | Examples | Open Source Alternatives |
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
 | Live DLC Delivery Systems | - | TBA |
 | Dynamic Asset Downloading | CDN-hosted live content | TBA |
@@ -102,7 +102,7 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### Progression & Monetisation Services
 
-| System Type | Examples | Open Source Alternatives |
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
 | Battle Pass Systems | - | TBA |
 | Daily Missions / Timed Challenges | - | TBA |
@@ -114,7 +114,7 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### Cloud & Platform Services
 
-| System Type | Examples | Open Source Alternatives |
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
 | Cloud Match Replay Storage | - | TBA |
 | Cross-Save / Cloud Profile Sync | - | TBA |
@@ -124,7 +124,7 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### Monitoring & Maintenance
 
-| System Type | Examples | Open Source Alternatives |
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
 | A/B Testing Systems | - | TBA |
 | Crash & Error Reporting | Sentry, Bugsnag | TBA |
@@ -138,7 +138,7 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### AI /ML Systems
 
-| System Type | Examples | Open Source Alternatives |
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
 | Live Difficulty Balancing via Machine Learning | - | TBA |
 | AI Personalisation | matchmaking, behaviour prediction | TBA |
@@ -149,7 +149,8 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 | Adaptive Tutorial / Onboarding Systems | - | TBA |
 
 ### Infrastructure & Resilience
-| System Type | Examples | Open Source Alternatives |
+
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
 | Auto-Scaling Services | AWS | TBA |
 | Disaster Recovery / Backup Systems | - | TBA |
@@ -159,7 +160,7 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### Streaming / Creator Support
 
-| System Type | Examples | Open Source Alternatives |
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
 | Streamer API Hooks | showing events on stream | TBA |
 | Twitch Extension Support | overlays, twitch drops | TBA |
@@ -168,5 +169,52 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### Developer & Production Tools
 
-| System Type | Examples | Open Source Alternatives |
+| System Type | Examples | EOL Solutions |
+|:-------------|:------------------|:------------------|
+| Admin Control Panel / LiveOps Console | - | TBA |
+| Feature Flag Toggles | - | TBA |
+| Force Kick / Temp Ban / Teleport Tools | - | TBA |
+| Player LookUp & Session Trace | - | TBA |
+| Build Version Management | - | TBA |
+| Per Platform Build Version Tracking | - | TBA |
+| Data Export APIs | external dashboard export, BI metrics | TBA |
+| Forced Update Enforcement | - | TBA |
+| Staging / Canary Environments | - | TBA |
+| A/B Test by Region or User Segment | - | TBA |
+| Replay / Telemetry Visualisation Tools | - | TBA |
+| Gameplay Debugging Tools | QA Tools, Support Tools | TBA |
+
+### Player Support Tools
+
+| System Type | Examples | EOL Solutions |
+|:-------------|:------------------|:------------------|
+| Self-Serve Account Recovery / Password Reset | - | TBA |
+| Transaction History Viewer | - | TBA |
+| Live chat Support Integration | Zendesk, Intercom | TBA |
+| Behaviour Dispute System | - | TBA |
+| Auto-Unban Appeal Review Queues | - | TBA |
+
+### Edge Network & CDN Optimisations
+
+| System Type | Examples | EOL Solutions |
+|:-------------|:------------------|:------------------|
+| Smart Asset Pre-Fetching | - | TBA |
+| Predict & Preload upcoming assets | skins, levels | TBA |
+| Regional Asset Caching | - | TBA |
+| CDNs with Intelligent Eviction/Prioritisation Rules | - | TBA |
+| Progressive Asset Loading Frameworks | background downloading based on nadwidth | TBA |
+
+### Alternate Game Modes / Meta Layers
+
+| System Type | Examples | EOL Solutions |
+|:-------------|:------------------|:------------------|
+| Companion App APIs | - | TBA |
+| Secondary-Device LogIn / Chat / Loadout Editing / Minigames | - | TBA |
+| Idle Systems Integration | - | TBA |
+| Server-Side Processing of Idle-Rewards / Time Based Mechanics | - | TBA |
+| Seasonal Meta Progression Services | live meta-events | TBA |
+
+### Marketplace / Economy Systems
+
+| System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
