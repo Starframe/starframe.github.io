@@ -111,6 +111,7 @@ Was wir aber alle ansprechen sollten:
  	
 ### 5. Wenn ihr bestehende Kontakte zur EU-Komission habt:
 Nehmt Kontakt zu zu Daniel Ondruska oder Accursed Farms (rosswscott@gmail.com) auf und bietet an, sie mit eurem Kontakt bekannt zu machen.
+
 [Sende E-Mail an AccursedFarms](mailto:rosswscott@gmail.com?subject=StopKillingGames%Help%with%EU-Comission%Contact&amp;body=Hi%there,%I&know%someone%in%the%EU%Comission%and%want%to%help.){: .btn }
 
 ## Für Entwickler
