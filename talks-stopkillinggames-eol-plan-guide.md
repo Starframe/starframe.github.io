@@ -73,7 +73,7 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 | Dynamic Game Configuration | Live tuning of game parameters | TBA |
 | Live Patch Notes / Changelog Delivery | - | TBA |
 | Dynamic Queue Management | Load balancing players across servers | TBA |
-| Match Rehoin / Resume Services | - | TBA |
+| Match Rejoin / Resume Services | - | TBA |
 
 ### Community & Social Features
 
