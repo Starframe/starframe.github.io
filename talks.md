@@ -106,9 +106,12 @@ Was wir aber alle ansprechen sollten:
 	[Your Full Name]
 	[Additional Information Optional]
  </details>
+
+ [Gehe zum "Digital Fairness Act"](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_de){: .btn }
  	
 ### 5. Wenn ihr bestehende Kontakte zur EU-Komission habt:
 Nehmt Kontakt zu zu Daniel Ondruska oder Accursed Farms (rosswscott@gmail.com) auf und bietet an, sie mit eurem Kontakt bekannt zu machen.
+[Sende E-Mail an AccursedFarms](mailto:rosswscott@gmail.com?subject=StopKillingGames%Help%with%EU-Comission%Contact&amp;body=Hi%there,%I&know%someone%in%the%EU%Comission%and%want%to%help.){: .btn }
 
 ## Für Entwickler
 ### 1. Macht End-of-Life-Pläne für eure Spiele/Software
