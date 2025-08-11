@@ -14,6 +14,9 @@ Stand August 2025
 
 Nach dem Vortrag ist vor der Revolution ;) Wenn ihr die Initiative unterstützen wollt, findet ihr hier Schritt-für-Schritt-Anleitungen für alle wirksamen, offiziellen Kanäle, auf denen zum aktuellen Stand Aktionen laufen.
 
+1. TOC
+{:toc}
+
 ## Für alle deutschen Staatsangehörigen, oder EU Bürger über 18 Jahre
 ### 1. Zur Website gehen, um aktuelle Maßnahmen einzusehen
 StopKillingGames.com wird immer mit den neuesten Aktionen Up-to-Date gehalten. Auch wenn ihr auf diese Seite zu einem späteren Zeitpunkt stoßt, könnt ihr so informiert bleiben.
