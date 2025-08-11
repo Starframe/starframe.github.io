@@ -145,4 +145,7 @@ Dies generiert ein Bewusstsein bei Konsumenten und Präzedenz.
 Viele Entwickler sind erst einmal überfordert mit den Forderungen der Bewegung. Zukünftige Titel so zu planen, dass sie diese erfüllen ist allerdings nicht so schwer wie es erscheinen mag, auch wenn sie klar als Online-Services zu definieren sind. In diesem Best-Practises Video findet ihr einiges an Rat hierzu.
 Ich werde mein bestes tun, Ressourcen hier immer wieder zu aktualisieren.
 
+### 5. Wenn euer Arbeitgeber Teil eines Lobbyverbandes ist:
+Versucht, innerhalb eurer Firma ein offizielles Statement zu StopKillingGames zu bewirken. Lobbyverbände richten sich nach der Mehrheit ihrer Mitglieder. Große Firmen können einen großen Einfluss auf das finale Gesetz haben. Nutzt diese Plattform um zu helfen, statt zu hindern.
+
 
