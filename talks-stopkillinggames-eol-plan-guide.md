@@ -218,3 +218,13 @@ Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 | System Type | Examples | EOL Solutions |
 |:-------------|:------------------|:------------------|
+| Item Provenance Tracking | - | TBA |
+| Track Item History | origin, trades, duplicates | TBA |
+| Marketplace Tax / Fees Systems | - | TBA |
+| Inventory Overflow Handling | - | TBA |
+| Systems for overcapacity | inbox overflow, lost & found | TBA |
+
+### Enterprise Integrations
+
+| System Type | Examples | EOL Solutions |
+|:-------------|:------------------|:------------------|
