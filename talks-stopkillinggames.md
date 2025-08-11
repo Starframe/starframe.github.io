@@ -129,13 +129,13 @@ Nehmt Kontakt zu zu Daniel Ondruska oder Accursed Farms (rosswscott@gmail.com) a
 ### 1. Macht End-of-Life-Pläne für eure Spiele/Software
 Egal was für ein Spiel ihr entwickelt. Irgendwann patcht ihr es zum letzten Mal. Was passiert danach? Setzt euch zusammen und macht einen Plan für genau dieses Szenario. 
 
-[Gehe zu Guide: How to make an End-of-Life plan for your game -English](/talks-stopkillinggames-eol-plan-guide){: .btn }
+[Gehe zu Guide: How to make an End-of-Life plan for your game -English](/games-eol-plan-guide){: .btn }
 
 ### 2. Minimiert Micro-Services oder 3rd Party Libraries/Software mit restriktiven Lizenzvereinbarungen
 Microservices machen die Entwicklung leichter, aber die Bereitstellung von Server-seitiger Software zu End-of-Life sehr viel schwieriger. Wählt daher Libraries und Services, die ihr auch an Endkunden weitergeben könnt.
 Ein Klick auf den Button unten katapultiert dich zu einem englischen Guide, der verschiedene Services auflistet, über die du dir Gedanken machen solltest. Die Liste ist sehr umfangreich, da sie generell für alle Spiele relevant sein soll irrespektiv des Genres, der Firmengröße und des Typs.
 
-[Gehe zu Guide: How to make an End-of-Life plan for your game - English](/talks-stopkillinggames-eol-plan-guide){: .btn }
+[Gehe zu Guide: How to make an End-of-Life plan for your game - English](/games-eol-plan-guide){: .btn }
 
 ### 3. Praktiziert transparente Kennzeichnung auf euren Produkten (freiwillige Kennzeichnung - bis offizieler Standard etabliert)
 Kennzeichner eure physischen Releases auf der Box an einer gut sichtbaren Stelle (Template TBA) als entweder permanente Lizenz oder als Service mit minimal Garantie für Serverlaufzeit ab Release.
