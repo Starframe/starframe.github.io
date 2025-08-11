@@ -26,6 +26,7 @@ Suche dir einen MEP aus der unten stehenden Liste aus, den du kontaktieren möch
 Nachdem die Petition auf EU-Level ihr Unterschriftenziel erreicht hat, ist es nun an der Zeit, Abgeordnete bzw. Parlamentsmitglieder direkt zu kontaktieren. 
 
 Liste der MEPs, die generell eher Pro-Verbraucherrecht stimmen (credit für die Liste: xe_x3)
+
 | Name | Partei | E-Mail |
 |:-------------|:------------------|:------|
 | Engin EROGLU | Freie Wähler (Germany) | engin.eroglu@europarl.europa.eu |
