@@ -80,38 +80,38 @@ Was wir aber alle ansprechen sollten:
 - Warum ist es wichtig, dass neue Gesetze zu dieser Problematik erfasst werden (z.B. Verbraucherrechte, Klarheit ob Spiele Dienstleistungen oder Produkte sind, Definition von digitalem Besitz, Archivierung von Kulturgut).
 - Formuliere deine Forderung. Welche der Punkte, die StopKillingGames fordert, möchtest du auch?
 - Bitte den MEP, die Initiative zu unterstützen.
-<details>
-  	<summary>Englisches, offizielles Template der Initiative:</summary>
-	```
-	Subject: [Express how the support of the MEP is needed.]
 
-	Dear Honourable [Name of MEP],
+Englisches, offizielles Template der Initiative:
 
-	[Introduce yourself with a name and indicate your home country.]
+```
+Subject: [Express how the support of the MEP is needed.]
 
-	[Introduce the Stop Destroying Videogames European Citizens Initiative. Mention the Stop Killing Games movement and its significance within the European Union as a popular consumer rights and cultural heritage protection issue. Talk about how the Initiative has reached 1.4+ million signatures and asks European institutions to look into the practice of video game publishers destroying something that they sold to their customer without any recourse, and its basis in anti-consumer stipulations within their Terms Of Service and End-User License Agreements.]
+Dear Honourable [Name of MEP],
 
-	[Talk about how the video game industry is a 170 billion Euro enterprise and how their practices regarding planned obsolescence are contrary to several EU Treaties, Directives, and Charters. Mention how this is outlined on the Initiative webpage. Go into greater detail about the main issues, which are: the willful withdrawal of sold products and the denial of ownership rights by the seller without recourse, the disproportionate disadvantage for the consumer / customer, and the destruction of cultural heritage. Then, talk about how the Initiative therefore seeks to prevent the remote disabling of video games by publishers who fail to provide reasonable means for continual function.]
+[Introduce yourself with a name and indicate your home country.]
 
-	[Make a statement on how the Initiative is calling for new legal requirements that publishers who sell / license video games or related features and assets to consumers in the European Union must leave said products in a functional (playable) state. Clarify that the initiative does *not* seek to acquire ownership of said video games, nor their associated intellectual rights or monetization rights, and neither does it expect the publisher to provide online resources for said product once they discontinue active support - so long as it is left in a reasonably functional state. Mention how solutions for this problem exist, but do not get technical. Provide examples - Owlcat, Running With Scissors, GoG, Gran Turismo Sport, Knockout City, etc.]
+[Introduce the Stop Destroying Videogames European Citizens Initiative. Mention the Stop Killing Games movement and its significance within the European Union as a popular consumer rights and cultural heritage protection issue. Talk about how the Initiative has reached 1.4+ million signatures and asks European institutions to look into the practice of video game publishers destroying something that they sold to their customer without any recourse, and its basis in anti-consumer stipulations within their Terms Of Service and End-User License Agreements.]
 
-	[Ask for the MEP's support of the initiative in EU institutions. Mention how the Initiative has garnered the support of several European Parliament parties and politicians - as well as major game developers / publishers.]
+[Talk about how the video game industry is a 170 billion Euro enterprise and how their practices regarding planned obsolescence are contrary to several EU Treaties, Directives, and Charters. Mention how this is outlined on the Initiative webpage. Go into greater detail about the main issues, which are: the willful withdrawal of sold products and the denial of ownership rights by the seller without recourse, the disproportionate disadvantage for the consumer / customer, and the destruction of cultural heritage. Then, talk about how the Initiative therefore seeks to prevent the remote disabling of video games by publishers who fail to provide reasonable means for continual function.]
 
-	[Note that further queries may be taken to ECI representatives, who can be contacted via email. Contact details are on the Initiative page that you will list below in your email.]
+[Make a statement on how the Initiative is calling for new legal requirements that publishers who sell / license video games or related features and assets to consumers in the European Union must leave said products in a functional (playable) state. Clarify that the initiative does *not* seek to acquire ownership of said video games, nor their associated intellectual rights or monetization rights, and neither does it expect the publisher to provide online resources for said product once they discontinue active support - so long as it is left in a reasonably functional state. Mention how solutions for this problem exist, but do not get technical. Provide examples - Owlcat, Running With Scissors, GoG, Gran Turismo Sport, Knockout City, etc.]
 
-	Initiative page:
-	https://citizens-initiative.europa.eu/initiatives/details/2024/000007_en
-	FAQ: https://www.stopkillinggames.com/faq
+[Ask for the MEP's support of the initiative in EU institutions. Mention how the Initiative has garnered the support of several European Parliament parties and politicians - as well as major game developers / publishers.]
 
-	[Thank the MEP for their time.]
+[Note that further queries may be taken to ECI representatives, who can be contacted via email. Contact details are on the Initiative page that you will list below in your email.]
 
-	Best regards,
-	[Your Full Name]
-	[Additional Information Optional]
-	```
- </details>
+Initiative page:
+https://citizens-initiative.europa.eu/initiatives/details/2024/000007_en
+FAQ: https://www.stopkillinggames.com/faq
 
- [Gehe zum "Digital Fairness Act"](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_de){: .btn }
+[Thank the MEP for their time.]
+
+Best regards,
+[Your Full Name]
+[Additional Information Optional]
+```
+
+[Gehe zum "Digital Fairness Act"](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_de){: .btn }
  	
 ### 5. Wenn ihr bestehende Kontakte zur EU-Komission habt:
 Nehmt Kontakt zu zu Daniel Ondruska oder Accursed Farms (rosswscott@gmail.com) auf und bietet an, sie mit eurem Kontakt bekannt zu machen.
