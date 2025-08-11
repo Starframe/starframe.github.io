@@ -14,7 +14,10 @@ last updated August 2025
 credit to AccursedFarms for initial list
 
 If you are an indie dev reading this, and the list looks overwhelming? Don't worry! Depending on the type of game you are making, 99% of these don't apply to you. Just go through and check, which ones you plan on using.
+
 The easiest solution to all of these at end of life, is to just turn them off. But to do that, you have to structure your code in a modular fashion, that allows your game to run without these. If you decide, you want these to be functional beyond your support period, you need to choose APIs, that you can distribute to players DRM free for both client and server side software.
+
+Disclaimer: Some entries might double up, as they can fit multiple categories.
 
 ### Security & Integrity
 
@@ -98,6 +101,72 @@ The easiest solution to all of these at end of life, is to just turn them off. B
 | UGC / Mod Delivery Systems | - | TBA |
 
 ### Progression & Monetisation Services
+
+| System Type | Examples | Open Source Alternatives |
+|:-------------|:------------------|:------------------|
+| Battle Pass Systems | - | TBA |
+| Daily Missions / Timed Challenges | - | TBA |
+| Reward Distribution Services | - | TBA |
+| Live Storefront Item Rotation Services | - | TBA |
+| Dynamic XP / Currency Rate Adjustment | Double-XP weekends | TBA |
+| Progress Rollback / Restore Tools | - | TBA |
+| First-Time User Experience (FTUE) Flow Control | - | TBA |
+
+### Cloud & Platform Services
+
+| System Type | Examples | Open Source Alternatives |
+|:-------------|:------------------|:------------------|
+| Cloud Match Replay Storage | - | TBA |
+| Cross-Save / Cloud Profile Sync | - | TBA |
+| Cloud Base Save Validation | - | TBA |
+| Platform Trophies / Achievement Sync | - | TBA |
+| Streaming Integrations | Twitch Drops | TBA |
+
+### Monitoring & Maintenance
+
+| System Type | Examples | Open Source Alternatives |
+|:-------------|:------------------|:------------------|
+| A/B Testing Systems | - | TBA |
+| Crash & Error Reporting | Sentry, Bugsnag | TBA |
+| Real-Time Performance Monitoring | - | TBA |
+| Support-Ticket / Helpdesk Integrations | - | TBA |
+| Surveys & Player Feedback Collection Tools | - | TBA |
+| Live Ops Dashboard | - | TBA |
+| Automated Incident Response | server auto-healing, escalation tools | TBA |
+| Log Aggregation / Search Tools | ELK stack | TBA |
+| Player Session History Viewer | - | TBA |
+
+### AI /ML Systems
+
+| System Type | Examples | Open Source Alternatives |
+|:-------------|:------------------|:------------------|
+| Live Difficulty Balancing via Machine Learning | - | TBA |
+| AI Personalisation | matchmaking, behaviour prediction | TBA |
+| Toxicity detection Services | - | TBA |
+| Live Voice Chat Moderation using AI | - | TBA |
+| Match Outcome Prediction | - | TBA |
+| Churn Prediction | - | TBA |
+| Adaptive Tutorial / Onboarding Systems | - | TBA |
+
+### Infrastructure & Resilience
+| System Type | Examples | Open Source Alternatives |
+|:-------------|:------------------|:------------------|
+| Auto-Scaling Services | AWS | TBA |
+| Disaster Recovery / Backup Systems | - | TBA |
+| Multi-Region Server Failover | - | TBA |
+| Cloud Cost optimisation tools | - | TBA |
+| Traffic Shaping / Throttling | - | TBA |
+
+### Streaming / Creator Support
+
+| System Type | Examples | Open Source Alternatives |
+|:-------------|:------------------|:------------------|
+| Streamer API Hooks | showing events on stream | TBA |
+| Twitch Extension Support | overlays, twitch drops | TBA |
+| Spectator / Caster Mode integration | - | TBA |
+| Live Telemetry Broadcasting | esports broadcasts | TBA |
+
+### Developer & Production Tools
 
 | System Type | Examples | Open Source Alternatives |
 |:-------------|:------------------|:------------------|
