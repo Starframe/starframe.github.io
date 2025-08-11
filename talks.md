@@ -14,6 +14,7 @@ Nach dem Vortrag ist vor der Revolution ;) Wenn ihr die Initiative unterstützen
 ### 1. Zur Website gehen, um aktuelle Maßnahmen einzusehen
 StopKillingGames.com wird immer mit den neuesten Aktionen Up-to-Date gehalten. Auch wenn ihr auf diese Seite zu einem späteren Zeitpunkt stoßt, könnt ihr so informiert bleiben.
 Wenn ihr euch hier zeitnah wiederfinder, bietet diese Seite eine umfangreichere und einfacher zu folgende Anleitung.
+
 [Zur Website von StopKillingGames gehen](https://stopkillinggames.com){: .btn }
 
 ### 2. Initiative teilen (gern auch mit dieser Liste an Schritten direkt angehängt)
