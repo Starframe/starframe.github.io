@@ -7,7 +7,9 @@ permalink: /talks
 ---
 
 # StopKillingGames CCC-FFM
-## StopKillingGames - Was kann ich tun, um mitzumachen? [Stand August 2025]
+## StopKillingGames - Was kann ich tun, um mitzumachen? 
+Stand August 2025 {: .label .label-purple }
+
 Nach dem Vortrag ist vor der Revolution ;) Wenn ihr die Initiative unterstützen wollt, findet ihr hier Schritt-für-Schritt-Anleitungen für alle wirksamen, offiziellen Kanäle, auf denen zum aktuellen Stand Aktionen laufen.
 
 ## Für alle deutschen Staatsangehörigen, oder EU Bürger über 18 Jahre
