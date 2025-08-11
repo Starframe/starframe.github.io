@@ -25,9 +25,7 @@ Suche dir einen MEP aus der unten stehenden Liste aus, den du kontaktieren möch
    
 Nachdem die Petition auf EU-Level ihr Unterschriftenziel erreicht hat, ist es nun an der Zeit, Abgeordnete bzw. Parlamentsmitglieder direkt zu kontaktieren. 
 
-<details>
-<summary>Liste der MEPs, die generell eher Pro-Verbraucherrecht stimmen (credit für die Liste: xe_x3)</summary>
-
+Liste der MEPs, die generell eher Pro-Verbraucherrecht stimmen (credit für die Liste: xe_x3)
 
 | Name | Partei | E-Mail |
 |:-------------|:------------------|:------|
@@ -72,7 +70,7 @@ Nachdem die Petition auf EU-Level ihr Unterschriftenziel erreicht hat, ist es nu
 | Rasmus ANDRESEN | Bündnis 90/Die Grünen (Germany) | rasmus.andresen@europarl.europa.eu |
 | Martin SCHIRDEWAN | DIE LINKE. (Germany) | martin.schirdewan@europarl.europa.eu |
 | Friedrich PÜRNER | Independent (Germany) | friedrich.puerner@europarl.europa.eu |
- </details>
+
 
 ### 4. Kommentar unter ["Digital Fairness Act"](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_de) hinterlassen
 Hierbei ist es wichtig, dass wir nicht Alle eine Vorlage nutzen, sondern, dass jeder in den jeweils eigenen Worten erklärt, warum Legislation nötig ist.
