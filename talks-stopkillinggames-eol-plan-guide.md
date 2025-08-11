@@ -16,6 +16,7 @@ credit to AccursedFarms for initial list
 If you are an indie dev reading this, and the list looks overwhelming? Don't worry! Depending on the type of game you are making, 99% of these don't apply to you. Just go through and check, which ones you plan on using.
 
 ### Security & Integrity
+
 | System Type | Examples | Open Source Alternatives |
 |:-------------|:------------------|:------------------|
 | Anti-Cheat Systems | Easy Anti-Cheat, BattlEye | TBA |
@@ -27,6 +28,7 @@ If you are an indie dev reading this, and the list looks overwhelming? Don't wor
 | Client Integrity Verification | - | TBA |
 
 ### Monetisation
+
 | System Type | Examples | Open Source Alternatives |
 |:-------------|:------------------|:------------------|
 | Payment Processing Gateways | Stripe, PayPal, In-game stores | TBA |
@@ -42,6 +44,7 @@ If you are an indie dev reading this, and the list looks overwhelming? Don't wor
 | Loot Box Compliance tools | Odds disclosure, timers | TBA |
 
 ### Online Account Services
+
 | System Type | Examples | Open Source Alternatives |
 |:-------------|:------------------|:------------------|
 | Account Creation and Management | - | TBA |
@@ -53,5 +56,6 @@ If you are an indie dev reading this, and the list looks overwhelming? Don't wor
 | Account Merge / Migration Services | - | TBA |
 
 ### Live Ops / Game Services
+
 | System Type | Examples | Open Source Alternatives |
 |:-------------|:------------------|:------------------|
