@@ -128,6 +128,7 @@ Nehmt Kontakt zu zu Daniel Ondruska oder Accursed Farms (rosswscott@gmail.com) a
 ## Für Entwickler
 ### 1. Macht End-of-Life-Pläne für eure Spiele/Software
 Egal was für ein Spiel ihr entwickelt. Irgendwann patcht ihr es zum letzten Mal. Was passiert danach? Setzt euch zusammen und macht einen Plan für genau dieses Szenario. 
+[Gehe zu Guide: How to make an End-of-Life plan for your game -English](/talks-stopkillinggames-eol-plan-guide){: .btn }
 
 ### 2. Minimiert Micro-Services oder 3rd Party Libraries/Software mit restriktiven Lizenzvereinbarungen
 Microservices machen die Entwicklung leichter, aber die Bereitstellung von Server-seitiger Software zu End-of-Life sehr viel schwieriger. Wählt daher Libraries und Services, die ihr auch an Endkunden weitergeben könnt.
