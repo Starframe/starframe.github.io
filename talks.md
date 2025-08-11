@@ -21,14 +21,14 @@ Wenn ihr euch hier zeitnah wiederfinder, bietet diese Seite eine umfangreichere 
 Wie immer ist es wichtig, so viele Menschen wie möglich zu erreichen. Ein Bewusstsein für Initiativen wie diese in der gemeinen Bevölkerung zu schaffen und vor Allem zu halten ist schwierig. Also teilt fleißig - und vor Allem: Bitte erklärt nicht-technik-affinen Menschen, warum das hier wichtig ist.
 
 ### 3. Zuständige MEPs (EU-Parlamentsmitglieder kontaktieren)
-1. Suche dir einen MEP aus der unten stehenden Liste aus, den du kontaktieren möchtest.
+Suche dir einen MEP aus der unten stehenden Liste aus, den du kontaktieren möchtest.
    
-   Nachdem die Petition auf EU-Level ihr Unterschriftenziel erreicht hat, ist es nun an der Zeit, Abgeordnete bzw. Parlamentsmitglieder direkt zu kontaktieren. 
-	<details>
-  	<summary>Liste der MEPs, die generell eher Pro-Verbraucherrecht stimmen (credit für die Liste: xe_x3)</summary>
-		| Name | Partei | E-Mail |
-		|:-------------|:------------------|:------|
-		| Engin EROGLU | Freie Wähler (Germany) | engin.eroglu@europarl.europa.eu |
+Nachdem die Petition auf EU-Level ihr Unterschriftenziel erreicht hat, ist es nun an der Zeit, Abgeordnete bzw. Parlamentsmitglieder direkt zu kontaktieren. 
+
+Liste der MEPs, die generell eher Pro-Verbraucherrecht stimmen (credit für die Liste: xe_x3)
+| Name | Partei | E-Mail |
+|:-------------|:------------------|:------|
+| Engin EROGLU | Freie Wähler (Germany) | engin.eroglu@europarl.europa.eu |
 		Sebastian EVERDING – Partei Mensch Umwelt Tierschutz (Germany) – sebastian.everding@europarl.europa.eu
 		Ruth FIRMENICH – Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit (Germany) – ruth.firmenich@europarl.europa.eu
 		Daniel FREUND – Bündnis 90/Die Grünen (Germany) – daniel.freund@europarl.europa.eu
