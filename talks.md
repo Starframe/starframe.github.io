@@ -7,18 +7,18 @@ permalink: /talks
 ---
 
 # StopKillingGames CCC-FFM
-# StopKillingGames - Was kann ich tun, um mitzumachen? [Stand August 2025]
+## StopKillingGames - Was kann ich tun, um mitzumachen? [Stand August 2025]
 Nach dem Vortrag ist vor der Revolution ;) Wenn ihr die Initiative unterstützen wollt, findet ihr hier Schritt-für-Schritt-Anleitungen für alle wirksamen, offiziellen Kanäle, auf denen zum aktuellen Stand Aktionen laufen.
 
-# Für alle deutschen Staatsangehörigen, oder EU Bürger über 18 Jahre
+## Für alle deutschen Staatsangehörigen, oder EU Bürger über 18 Jahre
 ## 1. [Zur Website gehen](https://stopkillinggames.com), um aktuelle Maßnahmen einzusehen
 StopKillingGames.com wird immer mit den neuesten Aktionen Up-to-Date gehalten. Auch wenn ihr auf diese Seite zu einem späteren Zeitpunkt stoßt, könnt ihr so informiert bleiben.
 Wenn ihr euch hier zeitnah wiederfinder, bietet diese Seite eine umfangreichere und einfacher zu folgende Anleitung.
 
-## 2. Initiative teilen (gern auch mit dieser Liste an Schritten direkt angehängt)
+### 2. Initiative teilen (gern auch mit dieser Liste an Schritten direkt angehängt)
 Wie immer ist es wichtig, so viele Menschen wie möglich zu erreichen. Ein Bewusstsein für Initiativen wie diese in der gemeinen Bevölkerung zu schaffen und vor Allem zu halten ist schwierig. Also teilt fleißig - und vor Allem: Bitte erklärt nicht-technik-affinen Menschen, warum das hier wichtig ist.
 
-## 3. Zuständige MEPs (EU-Parlamentsmitglieder kontaktieren)
+### 3. Zuständige MEPs (EU-Parlamentsmitglieder kontaktieren)
 1. Suche dir einen MEP aus der unten stehenden Liste aus, den du kontaktieren möchtest.
    
    Nachdem die Petition auf EU-Level ihr Unterschriftenziel erreicht hat, ist es nun an der Zeit, Abgeordnete bzw. Parlamentsmitglieder direkt zu kontaktieren. 
@@ -67,7 +67,7 @@ Wie immer ist es wichtig, so viele Menschen wie möglich zu erreichen. Ein Bewus
 		Friedrich PÜRNER – Independent (Germany) – friedrich.puerner@europarl.europa.eu </br>
 	</details>
 
-## 4. Kommentar unter ["Digital Fairness Act"](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_de) hinterlassen
+### 4. Kommentar unter ["Digital Fairness Act"](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_de) hinterlassen
 Hierbei ist es wichtig, dass wir nicht Alle eine Vorlage nutzen, sondern, dass jeder in den jeweils eigenen Worten erklärt, warum Legislation nötig ist.
 Was wir aber alle ansprechen sollten:
 - Wer bin ich und aus welchem EU-Land komme ich
@@ -105,13 +105,13 @@ Was wir aber alle ansprechen sollten:
 	[Additional Information Optional]
  </details>
  	
-## 5. Wenn ihr bestehende Kontakte zur EU-Komission habt:
+### 5. Wenn ihr bestehende Kontakte zur EU-Komission habt:
 Nehmt Kontakt zu zu Daniel Ondruska oder Accursed Farms (rosswscott@gmail.com) auf und bietet an, sie mit eurem Kontakt bekannt zu machen.
 
-# Für Entwickler
-## 1. Macht End-of-Life-Pläne für eure Spiele/Software
-## 2. Minimiert Micro-Services oder 3rd Party Libraries/Software mit restriktiven Lizenzvereinbarungen
-## 3. Praktiziert transparente Kennzeichnung auf euren Produkten (freiwillige Kennzeichnung - bis offizieler Standard etabliert)
-## 4. Schaut euch [das Best-Practises Video](https://www.youtube.com/watch?v=qXy9GlKgrlM) der Initiative an
+## Für Entwickler
+### 1. Macht End-of-Life-Pläne für eure Spiele/Software
+### 2. Minimiert Micro-Services oder 3rd Party Libraries/Software mit restriktiven Lizenzvereinbarungen
+### 3. Praktiziert transparente Kennzeichnung auf euren Produkten (freiwillige Kennzeichnung - bis offizieler Standard etabliert)
+### 4. Schaut euch [das Best-Practises Video](https://www.youtube.com/watch?v=qXy9GlKgrlM) der Initiative an
 
 
