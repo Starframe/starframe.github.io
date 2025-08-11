@@ -14,6 +14,7 @@ last updated August 2025
 credit to AccursedFarms for initial list
 
 If you are an indie dev reading this, and the list looks overwhelming? Don't worry! Depending on the type of game you are making, 99% of these don't apply to you. Just go through and check, which ones you plan on using.
+The easiest solution to all of these at end of life, is to just turn them off. But to do that, you have to structure your code in a modular fashion, that allows your game to run without these. If you decide, you want these to be functional beyond your support period, you need to choose APIs, that you can distribute to players DRM free for both client and server side software.
 
 ### Security & Integrity
 
@@ -71,6 +72,32 @@ If you are an indie dev reading this, and the list looks overwhelming? Don't wor
 | Match Rehoin / Resume Services | - | TBA |
 
 ### Community & Social Features
+
+| System Type | Examples | Open Source Alternatives |
+|:-------------|:------------------|:------------------|
+| News / Live Feed Services | - | TBA |
+| Community Forums / Integration | - | TBA |
+| Voice Chat Services | Vivox, Discord integration | TBA |
+| Player Messaging Systems / Mailbox | - | TBA |
+| Automated Player Message Moderation / Filtering | - | TBA |
+| Event-Based Messaging | End-of-match highlights, birthday messages | TBA |
+| Streamer Mode / Privacy Features | - | TBA |
+| Twitch Extension Support | Overlays, Twitch Drops | TBA |
+| Player Endorsement / Kudos System | - | TBA |
+| In-Game Polling / Voting Tools | - | TBA |
+| Community Challenges / Shared Progress Goals | - | TBA |
+
+### Content Management
+
+| System Type | Examples | Open Source Alternatives |
+|:-------------|:------------------|:------------------|
+| Live DLC Delivery Systems | - | TBA |
+| Dynamic Asset Downloading | CDN-hosted live content | TBA |
+| Cloud Save Systems | - | TBA |
+| Patch / Update Distribution via Launcher | - | TBA |
+| UGC / Mod Delivery Systems | - | TBA |
+
+### Progression & Monetisation Services
 
 | System Type | Examples | Open Source Alternatives |
 |:-------------|:------------------|:------------------|
