@@ -30,11 +30,11 @@ Liste der MEPs, die generell eher Pro-Verbraucherrecht stimmen (credit für die 
 |:-------------|:------------------|:------|
 | Engin EROGLU | Freie Wähler (Germany) | engin.eroglu@europarl.europa.eu |
 | Sebastian EVERDING | Partei Mensch Umwelt Tierschutz (Germany) | sebastian.everding@europarl.europa.eu |
-| Ruth FIRMENICH | Bündnis Sahra Wagenknecht | Vernunft und Gerechtigkeit (Germany) | ruth.firmenich@europarl.europa.eu |
+| Ruth FIRMENICH | Bündnis Sahra Wagenknecht Vernunft und Gerechtigkeit (Germany) | ruth.firmenich@europarl.europa.eu |
 | Daniel FREUND |  Bündnis 90/Die Grünen (Germany) | daniel.freund@europarl.europa.eu |
 | Alexandra GEESE | Bündnis 90/Die Grünen (Germany) | alexandra.geese@europarl.europa.eu |
-| Thomas GEISEL | Bündnis Sahra Wagenknecht | Vernunft und Gerechtigkeit (Germany) | thomas.geisel@europarl.europa.eu |
-| Niels GEUKING | Familien | Partei Deutschlands (Germany) | niels.geuking@europarl.europa.eu |
+| Thomas GEISEL | Bündnis Sahra Wagenknecht  Vernunft und Gerechtigkeit (Germany) | thomas.geisel@europarl.europa.eu |
+| Niels GEUKING | Familien Partei Deutschlands (Germany) | niels.geuking@europarl.europa.eu |
 | Andreas GLÜCK | Freie Demokratische Partei (Germany) | andreas.glueck@europarl.europa.eu |
 | Svenja HAHN | Freie Demokratische Partei (Germany) | svenja.hahn@europarl.europa.eu |
 | Martin HÄUSLING | Bündnis 90/Die Grünen (Germany) | martin.haeusling@europarl.europa.eu |
