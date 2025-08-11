@@ -59,3 +59,18 @@ If you are an indie dev reading this, and the list looks overwhelming? Don't wor
 
 | System Type | Examples | Open Source Alternatives |
 |:-------------|:------------------|:------------------|
+| Live Events Management | - | TBA |
+| Real-Time Matchmaking | - | TBA |
+| Ranking / Leadeboard | - | TBA |
+| Server Discovery / Session Browser | - | TBA |
+| Live Moderation Tools / Reporting Systems | - | TBA |
+| Analytics / Telemetry Ingestion | - | TBA |
+| Dynamic Game Configuration | Live tuning of game parameters | TBA |
+| Live Patch Notes / Changelog Delivery | - | TBA |
+| Dynamic Queue Management | Load balancing players across servers | TBA |
+| Match Rehoin / Resume Services | - | TBA |
+
+### Community & Social Features
+
+| System Type | Examples | Open Source Alternatives |
+|:-------------|:------------------|:------------------|
