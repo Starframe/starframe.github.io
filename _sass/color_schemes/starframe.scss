@@ -1,47 +1,54 @@
-# Custom colours
-$white: #414141 !default;
-$grey-dk-000: #959396 !default;
-$grey-dk-100: #5c5962 !default;
-$grey-dk-200: #44434d !default;
-$grey-dk-250: #302d36 !default;
-$grey-dk-300: #27262b !default;
-$grey-lt-000: #f5f6fa !default;
-$grey-lt-100: #eeebee !default;
-$grey-lt-200: #ecebed !default;
-$grey-lt-300: #e6e1e8 !default;
-$purple-000: #7253ed !default;
-$purple-100: #5e41d0 !default;
-$purple-200: #4e26af !default;
-$purple-300: #381885 !default;
-$blue-000: #56CAE3 !default;
-$blue-100: #44a5bb !default;
-$blue-200: #004555 !default;
-$blue-300: #00252e !default;
-$green-000: #41d693 !default;
-$green-100: #11b584 !default;
-$green-200: #009c7b !default;
-$green-300: #026e57 !default;
-$yellow-000: #ffeb82 !default;
-$yellow-100: #fadf50 !default;
-$yellow-200: #f7d12e !default;
-$yellow-300: #e7af06 !default;
-$red-000: #f77e7e !default;
-$red-100: #f96e65 !default;
-$red-200: #e94c4c !default;
-$red-300: #dd2e2e !default;
+// Custom colours
+$white: #ffffff;
+$grey-dk-000: #959396;
+$grey-dk-100: #414141;
+$grey-dk-200: #44434d;
+$grey-dk-250: #302d36;
+$grey-dk-300: #27262b;
+$grey-lt-000: #414141;
+$grey-lt-100: #414141;
+$grey-lt-200: #ecebed;
+$grey-lt-300: #e6e1e8;
+$purple-000: #7253ed;
+$purple-100: #5e41d0;
+$purple-200: #4e26af;
+$purple-300: #381885;
+$blue-000: #56CAE3;
+$blue-100: #44a5bb;
+$blue-200: #004555;
+$blue-300: #00252e;
+$green-000: #41d693;
+$green-100: #11b584;
+$green-200: #009c7b;
+$green-300: #026e57;
+$yellow-000: #ffeb82;
+$yellow-100: #fadf50;
+$yellow-200: #f7d12e;
+$yellow-300: #e7af06;
+$red-000: #f77e7e;
+$red-100: #f96e65;
+$red-200: #e94c4c;
+$red-300: #dd2e2e;
 
-# Scheme
-$color-scheme: light !default;
-$body-background-color: $white !default;
-$body-heading-color: $grey-dk-300 !default;
-$body-text-color: $grey-dk-100 !default;
-$link-color: $purple-000 !default;
-$nav-child-link-color: $grey-dk-100 !default;
-$sidebar-color: $grey-lt-000 !default;
-$base-button-color: #f7f7f7 !default;
-$btn-primary-color: $purple-100 !default;
-$code-background-color: $white !default;
-$feedback-color: darken($sidebar-color, 3%) !default;
-$table-background-color: $white !default;
-$search-background-color: $white !default;
-$search-result-preview-color: $grey-dk-100 !default;
+// Scheme
+$color-scheme: light;
+$body-background-color: $white;
+$body-heading-color: $grey-dk-300;
+$body-text-color: $grey-dk-100;
+$link-color: $blue-000;
+$nav-child-link-color: $blue-000;
+$sidebar-color: $grey-lt-000;
+$base-button-color: #f7f7f7;
+$btn-primary-color: $blue-000;
+$code-background-color: $white;
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: $white;
+$search-background-color: $white;
+$search-result-preview-color: $grey-dk-100;
+
+// Borders
+$border: 1px solid;
+$border-radius: 4px;
+$border-color: $blue-000;
+
+
