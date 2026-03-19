@@ -1,7 +1,7 @@
 ---
 title: StopKillingGames - Mitmachen Steb-By-Step
 layout: home
-nav_order: 3
+nav_order: 
 description: "Wie kann ich mitmachen? Was bringt etwas? Ich bin Entwickler. Was tue ich?"
 permalink: /talks-stopkillinggames
 ---
