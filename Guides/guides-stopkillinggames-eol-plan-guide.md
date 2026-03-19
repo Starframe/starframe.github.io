@@ -1,8 +1,8 @@
 ---
 title: StopKillingGames - How to make an End-of-Life Plan for your game
-parent: StopKillingGames - Mitmachen Steb-By-Step
 layout: home
-nav_order: 3
+parent: Guides
+nav_order: 
 description: "Learn, how to make an end of life plan for your game. Updated as I learn more myself."
 permalink: /games-eol-plan-guide
 ---
