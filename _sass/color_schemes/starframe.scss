@@ -45,4 +45,8 @@ $feedback-color: darken($sidebar-color, 3%);
 $table-background-color: $white;
 $search-background-color: $white;
 $search-result-preview-color: $grey-dk-100;
-$border-bottom-color: $blue-000;
+
+// Borders
+$border: 1px solid;
+$border-radius: 4px;
+$border-color: $blue-000;
