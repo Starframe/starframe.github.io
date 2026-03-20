@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: https://starframe.github.io/
 
-#logo: "/Resources/StarframeLogo.png"
+logo: "/Resources/StarframeLogo.png"
 favicon_ico: "Resources/StarframeLogo_Favicon.ico"
 color_scheme: starframe
 
