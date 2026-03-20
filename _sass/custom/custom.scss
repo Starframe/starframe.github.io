@@ -1,9 +1,19 @@
 //Nav-Bar Tweaks
 .site-nav {
-    display: block;
-    padding-top: 3rem;
-    padding-bottom: 1rem;
-    overflow-y: auto;
-    flex: 1;
-    width: calc(100% - $content-width);
+    @include mq(md) {
+        width: calc(50%);
+    }
+  
+    @include mq(lg) {
+        width: calc(50%);
+    }
+}
+.site-header {
+    @include mq(md) {
+        width: calc(50%);
+    }
+  
+    @include mq(lg) {
+        width: calc(50%);
+    }
 }
