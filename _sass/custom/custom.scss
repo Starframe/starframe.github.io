@@ -2,7 +2,7 @@
 .site-nav {
     @include mq(lg) {
         width: calc(50%);
-        min-width: calc($nav-width + 5rem);
+        min-width: $nav-width;
     }
 }
 .site-header { 
