@@ -5,5 +5,5 @@
     padding-bottom: 1rem;
     overflow-y: auto;
     flex: 1;
-    width: calc($innerWidth - $content-width);
+    width: calc(100% - $content-width);
 }
