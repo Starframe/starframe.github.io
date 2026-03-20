@@ -8,14 +8,14 @@
   
     @include mq(md) {
         flex-flow: column nowrap;
-        position: sticky;
+        //position: sticky;
         width: $nav-width-md;
         border-right: $border $border-color;
         align-items: flex-end;
     }
   
     @include mq(lg) {
-        position: sticky;
+        //position: sticky;
         min-width: $nav-width;
         flex: 1;
     }
