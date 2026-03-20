@@ -1,5 +1,5 @@
 ---
-title: Overcoming art block.
+title: Overcoming art block & portfolio pressure.
 layout: home
 parent: Articles
 nav_order: 2022-10
@@ -34,7 +34,9 @@ Yes I was setting too high a standard for myself and stretching myself too thin,
 <br>
 While this is a personal story and not exactly what you might be going through, I want to draw attention to the fact that we as an industry should not be glorifying overworking ourselves. We should not motivate young people to burn themselves out to the point where they lose their passion. We should not leave them to figure out a healthy way to be a creative professional on their own. We need to stop putting so much pressure on Juniors and give them a chance to prove themselves, even if their portfolio isn't perfect. Yes it costs us time but if we are kind and think back to how hard it was for us I am sure we can find that time to at least write some kind words in exchange for the effort they put into their work and application. And if we are being honest, talent has never been the most important qualification for a job. I have worked with incredibly talented people and hated every minute and I have had the absolute pleasure of working with perfectly good artists, that weren't geniuses but made the team laugh, kept to their deadlines and helped out their peers wherever they could.<br>
 <br>
-> TLDR: Be kind to yourself and allow yourself to just try out new techniques or be creative just for the sake of it, because yes, it will make you a better artist. And if you are looking to hire look at more than just the body of work in front of you.<br>
+> TLDR: Be kind to yourself and allow yourself to just try out new techniques or be creative just for the sake of it, because yes, it will make you a better artist. And if you are looking to hire look at more than just the body of work in front of you.
+
+<br>
 <br>
 And just to set an example: These are some of the artworks that came out of allowing myself to just be weird and try new things. They are never making it into my portfolio but I have learned valuable things from all of them:<br>
 <br>
