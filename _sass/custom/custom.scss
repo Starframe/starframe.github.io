@@ -1,18 +1,10 @@
 //Nav-Bar Tweaks
 .site-nav {
-    @include mq(md) {
-        width: calc(100%);
-    }
-  
     @include mq(lg) {
         width: calc(50%);
     }
 }
-.site-header {
-    @include mq(md) {
-        width: calc(100%);
-    }
-  
+.site-header { 
     @include mq(lg) {
         width: calc(50%);
     }
