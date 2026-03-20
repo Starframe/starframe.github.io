@@ -19,8 +19,19 @@ heading_anchors: true
 
 aux_links:
   LinkedIn: https://www.linkedin.com/in/anita-hackstuhl/
-# Makes Aux links open in a new tab.
+
+# External navigation links
+nav_external_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/anita-hackstuhl/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+
+# Makes links open in a new tab.
 aux_links_new_tab: true
+nav_external_links_new_tab: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
 
 callouts:
   warning:
@@ -29,3 +40,6 @@ callouts:
   info:
     title: Info
     color: yellow
+  note:
+    title: note
+    color: purple
