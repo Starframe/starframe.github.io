@@ -22,4 +22,4 @@ Life is a learning experience. This is a sentence we all know and understand to 
 If you have ever felt this way, you are not alone. Recently I saw a post on twitter by a dear friend, that showcased his progress he had made in recent years, mentioning how he had so many unfinished WIPs and abandoned projects on his hard drive.<br>
 <br>
 
-![image tooltip here](/Resources/StarframeLogo.png)
+![Twitter Screenshot of a post from Vontadeh](/Articles/Resources/articles-overcomingartblock-portfolio-imageresource-twitter-vontadeh.jpg)
