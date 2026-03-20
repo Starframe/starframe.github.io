@@ -1,21 +1,26 @@
 //Nav-Bar Tweaks
+.site-wrap {
+    display: flex;
+    justify-content: center;
+}
 .side-bar {
     z-index: 0;
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     background-color: $sidebar-color;
   
     @include mq(md) {
-      flex-flow: column nowrap;
-      //position: fixed;
-      width: $nav-width-md;
-      height: 100%;
-      border-right: $border $border-color;
-      align-items: flex-end;
+        flex-flow: column nowrap;
+        position: sticky;
+        width: $nav-width-md;
+        border-right: $border $border-color;
+        align-items: flex-end;
     }
   
     @include mq(lg) {
-      min-width: $nav-width;
-      flex: 1;
+        position: sticky;
+        min-width: $nav-width;
+        flex: 1;
     }
   }
