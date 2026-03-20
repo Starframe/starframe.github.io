@@ -16,6 +16,9 @@ document.addEventListener("DOMContentLoaded", function () {
         // mark as expanded
         expander.setAttribute("aria-expanded", "true");
         list.style.display = "block";
+        console.log("Valid button found");
+      } else {
+        console.log("No valid button found");
       }
       
     });
