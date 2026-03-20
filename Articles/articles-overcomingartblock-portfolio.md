@@ -15,11 +15,9 @@ Last Updated October 2022
 Life is a learning experience. This is a sentence we all know and understand to at least some degree. Still - the games or rather the entertainment industry is a place of steep competition and constant pressure to put out content. Learning new skills or exploring new styles, expressing yourself or just relaxing after a stressful day are all things that we tend to neglect as a result of that. How can I just try out a new technique and just move on when plenty of others already perfected it? I can't spend time on 2D art, I need 3D pieces in this specific style for my portfolio! I know I am exhausted from a long workday, but I have to sit down and create something worthy of an artstation post...<br>
 <br>
 If you have ever felt this way, you are not alone. Recently I saw a post on twitter by a dear friend, that showcased his progress he had made in recent years, mentioning how he had so many unfinished WIPs and abandoned projects on his hard drive.<br>
-<br>
 
 ![Twitter Screenshot of a post from Vontadeh](/Articles/Resources/articles-overcomingartblock-portfolio-imageresource-twitter-vontadeh.jpg)
 
-<br>
 The tweet also mentioned, how he'd wish he could tell his former self, that he'd be okay if he just kept working on his skills. A really reassuring revelation, that is not as easily reached or as mundane as it might sound.<br> 
 <br>
 Making progress and improving as an artist is a tricky thing. Most of the work we put into our craft never sees the light of day. None of our clients see the initial drafts we made for them. None of our potential employers see the studies we started, but weren't good enough that we felt comfortable using them as an advertisement for our professional skill set. No one will look at the sketchbook we carry around to draw random people and things on public transport or out in the wild. Not a soul will look at a camera roll full of random close ups of objects intermixed with cat pictures and beautifully composed shots. To summarise: All of these things are useless for advancing our career - or are they.<br>
@@ -36,7 +34,6 @@ While this is a personal story and not exactly what you might be going through, 
 <br>
 > TLDR: Be kind to yourself and allow yourself to just try out new techniques or be creative just for the sake of it, because yes, it will make you a better artist. And if you are looking to hire look at more than just the body of work in front of you.
 
-<br>
 <br>
 And just to set an example: These are some of the artworks that came out of allowing myself to just be weird and try new things. They are never making it into my portfolio but I have learned valuable things from all of them:<br>
 <br>
