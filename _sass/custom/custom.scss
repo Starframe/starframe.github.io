@@ -17,6 +17,6 @@
     @include mq(lg) {
         position: fixed;
         min-width: $nav-width;
-        flex: 1;
+        width: calc((100% - #{$nav-width + $content-width}) / 20 + #{$nav-width});
     }
 }
