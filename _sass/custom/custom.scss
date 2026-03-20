@@ -7,7 +7,7 @@
   
     @include mq(md) {
       flex-flow: column nowrap;
-      position: fixed;
+      //position: fixed;
       width: $nav-width-md;
       height: 100%;
       border-right: $border $border-color;
@@ -15,7 +15,7 @@
     }
   
     @include mq(lg) {
-      width: calc((100% - #{$nav-width + $content-width}) / 20 + #{$nav-width});
+      width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
       min-width: $nav-width;
     }
   }
