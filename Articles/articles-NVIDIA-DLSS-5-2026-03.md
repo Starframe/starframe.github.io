@@ -2,7 +2,8 @@
 title: DLSS 5 - The case against ensloppifying your rendering pipeline.
 layout: home
 parent: Articles
-nav_order: 
+nav_order: 2026-03
+nav_exclude: true
 description: "The guide to saying no to management about tech bro AI in your rendering pipeline."
 permalink: /articles-nvidia-dlss5-2026-03
 ---
