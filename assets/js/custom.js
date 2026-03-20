@@ -10,9 +10,9 @@ document.addEventListener("DOMContentLoaded", function () {
     navLists.forEach(list => {
       
       // Find the expander button inside this section
-      const expander = list.previousElementSibling;
+      const expander = list.parentElement.querySelector(".nav-list-expander");
   
-      if (expander && expander.classList.contains("nav-list-expander")) {
+      if (expander) {
         // mark as expanded
         expander.setAttribute("aria-expanded", "true");
         list.style.display = "block";
