@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (window.innerWidth <= 768) return;
   
     // Find all navigation lists
-    const navLists = document.querySelectorAll(".nav-list");
+    const navLists = document.querySelectorAll(".nav-list > .nav-list-item > .nav-list");
   
     navLists.forEach(list => {
         
