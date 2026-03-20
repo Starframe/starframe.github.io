@@ -7,16 +7,13 @@
     background-color: $sidebar-color;
   
     @include mq(md) {
-        flex-flow: column nowrap;
-        position: fixed;
         width: $nav-width-md;
         border-right: $border $border-color;
-        align-items: flex-end;
+        align-items: flex-start;
     }
   
     @include mq(lg) {
-        position: fixed;
         min-width: $nav-width;
-        width: calc((100% - #{$nav-width + $content-width}) / 20 + #{$nav-width});
+        width: calc((100% - #{$nav-width + $content-width}) / 50 + #{$nav-width});
     }
 }
