@@ -1,13 +1,9 @@
 //Nav-Bar Tweaks
-.side-bar {
-          
-    @include mq(md) {
-        width: $nav-width-md;
-        width: calc((100% - #{$nav-width + $content-width}) / 50 + #{$nav-width});
-    }
-  
-    @include mq(lg) {
-        min-width: $nav-width;
-        width: calc((100% - #{$nav-width + $content-width}) / 50 + #{$nav-width});
-    }
+.site-nav {
+    display: block;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    overflow-y: auto;
+    flex: 1;
+    width: calc($innerWidth - $content-width);
 }
