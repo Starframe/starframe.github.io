@@ -32,10 +32,10 @@ This article is the result of research conducted for the initial design of the N
 > I lost the source of this image and google image search only gives me Chinese and Russian forum posts. If you know the original source, please contact me and I will add it.
 
 #### Detection via raycasting
-When enemies are within a certain range, rays are cast from their head. If those rays hit multiple or specific bones of the player character model, the enemy reacts according to where the hit event is triggered.
-
-If a hit event is triggered in the primary cone of vision, the player is instantly detected. If such an event is triggered in the peripheral cone, a gauge starts filling, so long as the player remains within sight, until they are eventually detected. Exiting the peripheral cone will interrupt this process.
-
+When enemies are within a certain range, rays are cast from their head. If those rays hit multiple or specific bones of the player character model, the enemy reacts according to where the hit event is triggered.<br>
+<br>
+If a hit event is triggered in the primary cone of vision, the player is instantly detected. If such an event is triggered in the peripheral cone, a gauge starts filling, so long as the player remains within sight, until they are eventually detected. Exiting the peripheral cone will interrupt this process.<br>
+<br>
 The “over-the-shoulder cone” works differently. Here the player character gets detected whenever they are moving a lot or too quickly, because it simulates “instinct”, meaning a combination of multiple senses, that make it possible for a human or animal to detect someone trying to sneak up on them from behind. A secondary trigger to this is the time the player spends within the zone. A gauge slowly begins to fill and if they spend too much time in the "over-the-shoulder" zone, they are also detected.
 
 ### Hearing
@@ -52,8 +52,8 @@ Enemies should react to:
 - broken windows
 - etc.
 
-To feel truly intelligent, enemies need to not only react consistently, but adapt to the player. 
-This means adapting their tactics (read behaviour tree) based on the player's preferred approach (think wearing helmets, when the player favours headshots or checking lockers, because the player constantly hides in them).
+To feel truly intelligent, enemies need to not only react consistently, but adapt to the player. <br>
+This means adapting their tactics (read behaviour tree) based on the player's preferred approach (think wearing helmets, when the player favours headshots or checking lockers, because the player constantly hides in them). <br>
 Semi-dynamic behaviour trees like this can suggest true intelligence and force the player to learn new tools and skills with relatively little complexity and is easier to balance than a true fully dynamic system.
 
 ### UI and context clues
@@ -65,9 +65,8 @@ Semi-dynamic behaviour trees like this can suggest true intelligence and force t
 Stealth games are primarily balanced by changing the ratio of safe spaces to unsafe spaces. This means, that safe hiding places become progressively less throughout the course of the game. This can be done by placing less of them in the level or by making the enemy adapt as explained above. It can even be used on the same levels to make backtracking through them more interesting. Especially older and handheld games utilise this to great effect due to limited disk space.
 
 ### Enemy sensory range
-Another method of balancing stealth is to increase or reduce the sensory range of enemies off-screen.
-Being detected by enemies out of sight can feel unfair, lengthening the time the player can spend in the cone before being detected for these cases can help balance that effect, as it gives the player time to recover and rewards caution.
-This balancing method should be sparingly applied to stealth in horror games, as here we absolutely want the player to be scared of every corner they can't see past. We are not fulfilling the same power fantasy as Stealth-Action games.
+Another method of balancing stealth is to increase or reduce the sensory range of enemies off-screen. <br>
+Being detected by enemies out of sight can feel unfair, lengthening the time the player can spend in the cone before being detected for these cases can help balance that effect, as it gives the player time to recover and rewards caution. This balancing method should be sparingly applied to stealth in horror games, as here we absolutely want the player to be scared of every corner they can't see past. We are not fulfilling the same power fantasy as Stealth-Action games.
 The most common adjustment here is to reduce the hearing range, as realistic values almost always end up feeling unfair or rather "unfun" with the limited field of view and lack of secondary senses the player has to work with in a video game.
 
 ### Delay before state change
@@ -81,7 +80,7 @@ For more granular control of difficulty, the detection process can be split up l
 
 > idle/baseline --suspicious noise OR initial glimpse--> alert/searching --continued noise AND/OR stay in cone--> hostile/combat
 
-and the recovery like this
+and the recovery like this:
 
 > combat --break line of sight--> alert/searching --stay out of sight--> idle/baseline
 
@@ -99,6 +98,7 @@ This is not scary or challenging. It just feels frustrating to the player, becau
 ## PROBLEMS TO SOLVE FOR STEALTH
 ### Quicksave abuse
 Like RPGs, stealth games also run the risk of attracting save-scumming behaviour. While in RPGs with different moral choices and a very long runtime we might want to encourage that behaviour or tolerate it, it can be harmful to stealth experiences, especially for players with a perfectionist streak. They will inch their way across the map, plopping down save after save, never really feeling committed - or in the case of horror - scared. 
+
 Ways to prevent this include:
 - An old-school checkpoint system (works well for linear games)
 - Limited save files by 
@@ -108,7 +108,7 @@ Ways to prevent this include:
     - softening the previous point by also allowing the player to save on quit (Elden Ring)
 
 ### Boss Fights
-Just don't ;P
+Just don't ;P <br>
 But if you really have to, make them play INTO your stealth mechanics. instead of forcing the player into open combat, give them the option to outsmart or "outsneak" their enemy, because there is nothing more frustrating than doing the reverse of a forced stealth section in an action-shooter by making the player abandon everything they have mastered so far to shoot a bullet sponge as a glass cannon.
 
 ## GADGETS
@@ -118,6 +118,7 @@ Player gadgets can fall into five categories:
 - Environment manipulation
 - Altering movement
 - Incapacitation
+
 They must be balanced by:
 - Hard limits for use
 - Making effects temporary
@@ -128,10 +129,10 @@ They must be balanced by:
 We repeat this constantly here, but for stealth-horror, the limiting part is especially important.
 
 ## LEVEL / MAP DESIGN
-Every stealth game is split into two basic types of areas: safe zones and danger zones (highways not necessarily included).
-The difference between a safe and a danger zone is classically communicated to the player by noise level, light and amount of cover.
-
-Level design for stealth games is a balancing act between loud, quiet, dark and light as well as force, information, space, manipulation and movement; but the unifying factor is that force should always be the least pronounced (exception: forced combat encounters like boss fights).
-
-And if we want the player to REALLY dread an upcoming area, we just place a bunch of consumables for them to pick up right before a door ^^
+Every stealth game is split into two basic types of areas: safe zones and danger zones (highways not necessarily included). <br>
+The difference between a safe and a danger zone is classically communicated to the player by noise level, light and amount of cover.<br>
+<br>
+Level design for stealth games is a balancing act between loud, quiet, dark and light as well as force, information, space, manipulation and movement; but the unifying factor is that force should always be the least pronounced (exception: forced combat encounters like boss fights).<br>
+<br>
+And if we want the player to REALLY dread an upcoming area, we just place a bunch of consumables for them to pick up right before a door ^^<br>
 
