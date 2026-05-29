@@ -5,14 +5,14 @@ parent: Articles
 nav_order: 2020-03
 nav_exclude: true
 description: "This article is the result of research conducted for the initial design of the Negative Atmosphere project. It entails insights into AI, detection systems, HUD elements and balancing as well as thoughts on how to best implement those systems into a survival-horror game."
-permalink: /articles-nvidia-dlss5-2026-03
+permalink: /articles-stealth-games-stealth-systems-and-enemy-perception
 ---
 
 # STEALTH GAMES: Stealth Systems and enemy perception
 Last Updated 2026-05-29
 {: .label .label-purple }
 
-!!! TBA HEADER IMAGE !!!
+![Title art from various stealth games](/Articles/Resources/articles-stealth-games-stealth-systems-and-enemy-perception-header.webp)
 
 ## SUMMARY
 This article is the result of research conducted for the initial design of the Negative Atmosphere project. It entails insights into AI, detection systems, HUD elements and balancing as well as thoughts on how to best implement those systems into a survival-horror game.
@@ -28,7 +28,8 @@ This article is the result of research conducted for the initial design of the N
     - a peripheral cone
     - an "over-the-shoulder" cone
 
-!!! INSERT IMAGE HERE !!!
+![diagram showing perception cones of an npc character](/Articles/Resources/articles-stealth-games-stealth-systems-and-enemy-perception-vision-cone-graph.webp)
+> I lost the source of this image and google image search only gives me Chinese and Russian forum posts. If you know the original source, please contact me and I will add it.
 
 #### Detection via raycasting
 When enemies are within a certain range, rays are cast from their head. If those rays hit multiple or specific bones of the player character model, the enemy reacts according to where the hit event is triggered.
@@ -78,15 +79,11 @@ Having enemies never go back to their idle state after they have been alerted ca
 ### Breaking up the detection process further
 For more granular control of difficulty, the detection process can be split up like this:
 
-$$
-idle/baseline \xrightarrow[suspicious\, noise]{initial\, glimpse} alert/searching \xrightarrow[continued\, noise]{stay\, in\, cone} hostile/combat
-$$
+> idle/baseline --suspicious noise OR initial glimpse--> alert/searching --continued noise AND/OR stay in cone--> hostile/combat
 
 and the recovery like this
 
-$$
-combat \xrightarrow[]{break\, line\, of\, sight} alert/searching \xrightarrow[]{stay\, out\, of\, sight} idle/baseline
-$$
+> combat --break line of sight--> alert/searching --stay out of sight--> idle/baseline
 
 The alert/searching or also called suspicious state is a dedicated recovery mechanism often found in stealth-action titles, but it can also be used to great effect in stealth-horror. GTFO does this really well with their "sleeping" enemies.
 
