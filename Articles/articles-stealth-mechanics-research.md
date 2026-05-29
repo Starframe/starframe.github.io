@@ -3,7 +3,7 @@ title: "STEALTH GAMES: Stealth Systems and enemy perception"
 layout: home
 parent: Articles
 nav_order: 2020-03
-nav_exclude: true
+nav_exclude: false
 description: "This article is the result of research conducted for the initial design of the Negative Atmosphere project. It entails insights into AI, detection systems, HUD elements and balancing as well as thoughts on how to best implement those systems into a survival-horror game."
 permalink: /articles-stealth-games-stealth-systems-and-enemy-perception
 ---
