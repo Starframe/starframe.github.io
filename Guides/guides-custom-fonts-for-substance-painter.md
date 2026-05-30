@@ -3,7 +3,7 @@ title: "How to create custom fonts for Substance Painter"
 layout: home
 parent: Guides
 nav_order: 2022-05
-nav_exclude: true
+nav_exclude: false
 description: ""
 permalink: /guides-custom-fonts-for-substance-painter
 ---
