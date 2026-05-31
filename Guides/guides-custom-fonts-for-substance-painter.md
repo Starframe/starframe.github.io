@@ -11,6 +11,8 @@ permalink: /guides-custom-fonts-for-substance-painter
 # How to create custom fonts for Substance Painter
 Last Updated 2026-05-30
 {: .label .label-purple }
+First published: April 2021
+{: .label .label-blue } 
 
 {: .info }
 If your studio is on Substance Painter 2024 or newer, please refer to [this official video](https://www.youtube.com/watch?v=QSVgnyiDADc), as Adobe added importing fonts as a proper feature in that release. If like me, you are stuck working with 2023 or older, follow the guide below. Same goes, if you want to do weird stuff to your fonts, that Substance Painter's built in feature doesn't allow.

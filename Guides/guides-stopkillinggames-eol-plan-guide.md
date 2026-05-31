@@ -10,6 +10,10 @@ permalink: /games-eol-plan-guide
 # StopKillingGames - How to make an End-of-Life Plan for your game
 last updated August 2025 
 {: .label .label-purple }
+
+First published: August 2025
+{: .label .label-blue } 
+
 This guide is a work-in-progress. It will be updated as I learn more myself and have time to add to this.
 
 ## List of Microservices to be removed on end of life
